@@ -1,6 +1,6 @@
 // Importing types for TypeScript support
-/// <reference types="jquery" />
-/// <reference types="@geps/geofs-types" />
+// <reference types="jquery" />
+// <reference types="@geps/geofs-types" />
 
 // Function to wait for a condition to be true
 async function waitForCondition(checkFunction) {
